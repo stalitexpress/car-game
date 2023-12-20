@@ -3,8 +3,8 @@ print("Type ';help' for help with commands")
 
 # Variables command and started
 
-const command = ""
-const started = False
+command = ""
+started = False
 
 # Main code
 
